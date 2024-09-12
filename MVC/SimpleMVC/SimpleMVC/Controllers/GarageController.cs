@@ -1,23 +1,50 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SimpleMVC.Models.Entities;
+using SimpleMVC.Repository;
 
 namespace SimpleMVC.Controllers;
 
 public class GarageController : Controller
 {
-    private readonly List<Car> _cars = new()
+    private readonly ICarRepository _repository;
+
+    public GarageController(ICarRepository repository)
     {
-        new Car { CarId = "AX32968", Make = "Chevrolet", Model = "Camaro", Year = 1981},
-        new Car { CarId = "HF27343", Make = "Mazda", Model = "Mazda 6", Year = 2016},
-        new Car { CarId = "YZ97000", Make = "Hyundai", Model = "Santa Fe", Year = 2007}
-    };
-    
-    
-    // GET:
-    // Url: /Garage
-    // or simply "/" when default in program.cs is set to GarageController
+        _repository = repository;
+    }
+
     public IActionResult Index()
     {
-        return View(_cars);
+        var cars = _repository.GetAll();
+        
+        return View(cars);
     }
+
+    // Create: GET
+    public IActionResult Create()
+    {
+        return View();
+    }
+
+    // Create: POST
+    [HttpPost]
+    public IActionResult Create([Bind("CarId,Make,Model,Year")] Car car)
+    {
+        try
+        {
+            if (!ModelState.IsValid) return View();
+            
+            _repository.Save(car);
+            TempData["message"] = $"{car.CarId} has been created!";
+            return RedirectToAction("Index");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            TempData["message"] = "Obs something went wrong!";
+            return RedirectToAction("Index");
+        }
+    }
+    
+    
 }

@@ -1,7 +1,12 @@
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using SimpleMVC.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<ICarRepository, CarRepository>();
+builder.Services.AddSingleton<ITempDataProvider, CookieTempDataProvider>();
 
 var app = builder.Build();
 
@@ -22,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Garage}/{action=Index}/{id?}");
 
 app.Run();

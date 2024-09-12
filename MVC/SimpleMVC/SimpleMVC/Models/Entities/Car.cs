@@ -1,8 +1,12 @@
-﻿namespace SimpleMVC.Models.Entities;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices;
+
+namespace SimpleMVC.Models.Entities;
 
 public class Car
-{
-    public string CarId { get; set; } = "No license";
+{   
+    [MaxLength(10)]
+    public string CarId { get; set; } = "No license number";
     public string Make { get; set; } = "Unknown";
     public string Model { get; set; } = "Unknown";
     public int Year { get; set; }
