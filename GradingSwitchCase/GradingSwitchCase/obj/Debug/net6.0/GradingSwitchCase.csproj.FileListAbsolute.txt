@@ -1,0 +1,15 @@
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\bin\Debug\net6.0\GradingSwitchCase.exe
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\bin\Debug\net6.0\GradingSwitchCase.deps.json
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\bin\Debug\net6.0\GradingSwitchCase.runtimeconfig.json
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\bin\Debug\net6.0\GradingSwitchCase.dll
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\bin\Debug\net6.0\GradingSwitchCase.pdb
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.csproj.AssemblyReference.cache
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.AssemblyInfoInputs.cache
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.AssemblyInfo.cs
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.dll
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\refint\GradingSwitchCase.dll
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.pdb
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\GradingSwitchCase.genruntimeconfig.cache
+C:\Users\said_\Documents\DTE-2802-24H\CSharp\GradingSwitchCase\GradingSwitchCase\obj\Debug\net6.0\ref\GradingSwitchCase.dll
