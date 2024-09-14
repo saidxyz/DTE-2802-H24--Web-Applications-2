@@ -33,5 +33,12 @@ public class GarageControllerTest
         var model = Assert.IsAssignableFrom<List<Car>>(viewResult.ViewData.Model);
         Assert.Equal(4, model.Count);
     }
+    
+    // Create: Get
+    [Fact]
+    public void Create_ReturnsAViewResult()
+    {
+        
+    }
 }
     
