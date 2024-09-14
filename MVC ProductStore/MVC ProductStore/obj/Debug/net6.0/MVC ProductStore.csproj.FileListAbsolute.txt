@@ -1,0 +1,26 @@
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\appsettings.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.staticwebassets.runtime.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.exe
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.deps.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.runtimeconfig.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\bin\Debug\net6.0\MVC ProductStore.pdb
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.csproj.AssemblyReference.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.AssemblyInfoInputs.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.AssemblyInfo.cs
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.RazorAssemblyInfo.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.RazorAssemblyInfo.cs
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\scopedcss\bundle\MVC ProductStore.styles.css
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\scopedcss\projectbundle\MVC ProductStore.bundle.scp.css
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\refint\MVC ProductStore.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.pdb
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\MVC ProductStore.genruntimeconfig.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\MVC ProductStore\obj\Debug\net6.0\ref\MVC ProductStore.dll
