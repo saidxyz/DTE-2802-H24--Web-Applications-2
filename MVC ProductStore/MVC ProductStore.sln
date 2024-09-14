@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC ProductStore", "MVC ProductStore\MVC ProductStore.csproj", "{B21E25BA-31A2-4AF1-9D7C-EC39A35F4C1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductUnitTest", "ProductUnitTest\ProductUnitTest.csproj", "{559D29B8-CB01-44BF-AB79-862FEAF201E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,11 @@ Global
 		{B21E25BA-31A2-4AF1-9D7C-EC39A35F4C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B21E25BA-31A2-4AF1-9D7C-EC39A35F4C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B21E25BA-31A2-4AF1-9D7C-EC39A35F4C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559D29B8-CB01-44BF-AB79-862FEAF201E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559D29B8-CB01-44BF-AB79-862FEAF201E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559D29B8-CB01-44BF-AB79-862FEAF201E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559D29B8-CB01-44BF-AB79-862FEAF201E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
