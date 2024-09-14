@@ -50,3 +50,9 @@ C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMV
 C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\obj\Debug\net6.0\scopedcss\projectbundle\SimpleMVC.bundle.scp.css
 C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\obj\Debug\net6.0\SimpleMVC.genruntimeconfig.cache
 C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\obj\Debug\net6.0\ref\SimpleMVC.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\bin\Debug\net6.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\bin\Debug\net6.0\xunit.core.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\SimpleMVC\obj\Debug\net6.0\SimpleMVC.csproj.CopyComplete
