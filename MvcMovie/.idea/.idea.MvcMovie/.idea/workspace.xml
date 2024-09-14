@@ -10,28 +10,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f851ed1a-11d4-4155-8ce0-ed5a7b70e3b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/.db" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/.db-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/.db-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Models/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Models/SeedData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-wal" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
