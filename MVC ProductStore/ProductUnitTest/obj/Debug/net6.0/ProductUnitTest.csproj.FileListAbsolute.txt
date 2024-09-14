@@ -1,0 +1,6 @@
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\obj\Debug\net6.0\ProductUnitTest.csproj.AssemblyReference.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\obj\Debug\net6.0\ProductUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\obj\Debug\net6.0\ProductUnitTest.AssemblyInfoInputs.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\obj\Debug\net6.0\ProductUnitTest.AssemblyInfo.cs
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC ProductStore\ProductUnitTest\obj\Debug\net6.0\ProductUnitTest.csproj.CoreCompileInputs.cache
