@@ -9,16 +9,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f851ed1a-11d4-4155-8ce0-ed5a7b70e3b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MvcMovie/Models/MovieGenreViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/.db" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/.db-wal" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Models/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Models/SeedData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2m3MKAsN1tSBhfcwHCX24rWmkNo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,19 +55,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.MvcMovie.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.MvcMovie.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.MvcMovie">
     <configuration name="MvcMovie" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MvcMovie/MvcMovie.csproj" />
