@@ -1,0 +1,5 @@
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\GarageControllerTests\obj\Debug\net6.0\GarageControllerTests.csproj.AssemblyReference.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\GarageControllerTests\obj\Debug\net6.0\GarageControllerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\GarageControllerTests\obj\Debug\net6.0\GarageControllerTests.AssemblyInfoInputs.cache
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\GarageControllerTests\obj\Debug\net6.0\GarageControllerTests.AssemblyInfo.cs
+C:\Users\said_\Documents\DTE-2802-H24--Web-Applications-2\MVC\SimpleMVC\GarageControllerTests\obj\Debug\net6.0\GarageControllerTests.csproj.CoreCompileInputs.cache
