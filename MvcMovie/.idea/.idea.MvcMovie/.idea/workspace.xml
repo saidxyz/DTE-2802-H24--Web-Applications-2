@@ -9,18 +9,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f851ed1a-11d4-4155-8ce0-ed5a7b70e3b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Models/SeedData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Data/MvcMovieContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Data/MvcMovieContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Migrations/20240914082540_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Migrations/20240914082540_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/net6.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/MvcMovie.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/ref/MvcMovie.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/net6.0/refint/MvcMovie.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
@@ -99,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726300740106</updated>
-      <workItem from="1726300741200" duration="2188000" />
+      <workItem from="1726300741200" duration="3734000" />
     </task>
     <servers />
   </component>
