@@ -11,7 +11,7 @@ namespace ProductUnitTest
         public void IndexReturnsNotNullResult()
         {
             // Arrange
-            var controller = new ProductController(); // Create instance of the controller
+            var controller = new HomeController(); // Create instance of the controller
 
             // Act
             var result = controller.Index() as ViewResult; // Call Index method and cast the result to ViewResult
