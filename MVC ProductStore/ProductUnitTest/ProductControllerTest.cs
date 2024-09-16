@@ -11,13 +11,13 @@ namespace ProductUnitTest
         public void IndexReturnsNotNullResult()
         {
             // Arrange
-            var controller = new HomeController(); // Create instance of the controller
+            var controller = new ProductController(); // Create instance of the controller
 
             // Act
             var result = controller.Index() as ViewResult; // Call Index method and cast the result to ViewResult
 
             // Assert
-            Assert.IsNotNull(result, "View Result is null"); // Ensure that the result is not null
+            Xunit.Assert.NotNull(result); // Ensure that the result is not null
         }
     }
 }
