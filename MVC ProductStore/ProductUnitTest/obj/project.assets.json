@@ -2384,7 +2384,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.33",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.33",
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.33"
+          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.33",
+          "Moq": "4.20.72"
         },
         "compile": {
           "bin/placeholder/MVC ProductStore.dll": {}
