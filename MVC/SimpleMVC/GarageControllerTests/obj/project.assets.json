@@ -1079,6 +1079,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Moq": "4.20.72",
           "xunit": "2.9.0"
         },
         "compile": {

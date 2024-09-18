@@ -713,6 +713,7 @@
       "xunit.runner.visualstudio/2.4.3": {},
       "SimpleMVC/1.0.0": {
         "dependencies": {
+          "Moq": "4.20.72",
           "xunit": "2.9.0"
         },
         "runtime": {
