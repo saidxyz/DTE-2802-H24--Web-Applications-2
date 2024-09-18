@@ -1,7 +1,15 @@
+using Microsoft.CodeAnalysis.Options;
+using Microsoft.EntityFrameworkCore;
+using StudentMVC.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Database
+builder.Services.AddDbContext<StudentDbContext>(options => 
+    options.UseSqlite("Data Source=StudentDB.db"));
 
 var app = builder.Build();
 
