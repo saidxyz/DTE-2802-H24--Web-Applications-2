@@ -1,6 +1,13 @@
-﻿namespace StudentMVC.Models;
+﻿using StudentMVC.Models.Entities;
+using StudentMVC.Models.ViewModel;
 
-public class IStudentRepository
+namespace StudentMVC.Models;
+
+public interface IStudentRepository
 {
-    
+    IEnumerable<Student> GetAll();
+
+    void Save(Student student);
+
+    StudentEditViewModel GetStudentEditViewModel();
 }
