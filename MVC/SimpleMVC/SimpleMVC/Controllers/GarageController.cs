@@ -35,13 +35,13 @@ public class GarageController : Controller
             if (!ModelState.IsValid) return View();
             
             _repository.Save(car);
-            TempData["message"] = $"{car.CarId} has been created!";
+            //TempData["message"] = $"{car.CarId} has been created!";
             return RedirectToAction("Index");
         }
         catch (Exception e)
         {
             Console.WriteLine(e);
-            TempData["message"] = "Obs something went wrong!";
+            //TempData["message"] = "Obs something went wrong!";
             return RedirectToAction("Index");
         }
     }

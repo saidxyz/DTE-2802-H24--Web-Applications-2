@@ -35,17 +35,43 @@ public class GarageControllerTest
         var result = _controller.Index();
 
         // Assert: Tests the results with expected result
-        // Sjekker at den er av rett type
+        // Sjekker at controlleren har funka
         var viewResult = Assert.IsType<ViewResult>(result);
+        // Sjekker om det har kommet ut modellene vi vill
         var model = Assert.IsAssignableFrom<List<Car>>(viewResult.ViewData.Model);
+        // sjekker det ene med det andre om det er lik
         Assert.Equal(4, model.Count);
     }
     
-    // Create: Get
+    // Create: GET
     [Fact]
     public void Create_ReturnsAViewResult()
     {
+        // Act
+        var result = _controller.Create();
+        
+        // Assert
+        Assert.IsType<ViewResult>(result);
         
     }
+    
+    // Create: POST
+    [Fact]
+    public void Create_Post_ValidModel_RedirectsToIndex()
+    {
+        // Arrange
+        var car = new Car { CarId = "YN12312", Make = "Toyota", Model = "Corolla", Year = 2000 };
+        _mockRepo.Setup(repo => repo.Save(It.IsAny<Car>())).Verifiable();
+
+        // Act
+        var result = _controller.Create(car);
+        
+        // Assert
+        var redirectToActionResult = Assert.IsType<RedirectToActionResult>(result);
+        Assert.Equal("Index", redirectToActionResult.ActionName);
+        _mockRepo.Verify();
+        
+    }
+    
 }
     
