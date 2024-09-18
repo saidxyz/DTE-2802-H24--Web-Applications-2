@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Moq;
 using SimpleMVC.Controllers;
 using SimpleMVC.Models.Entities;
@@ -62,6 +64,10 @@ public class GarageControllerTest
         // Arrange
         var car = new Car { CarId = "YN12312", Make = "Toyota", Model = "Corolla", Year = 2000 };
         _mockRepo.Setup(repo => repo.Save(It.IsAny<Car>())).Verifiable();
+        
+        // If tempdata is used in controller, add these 2 lines.
+        var tempData = new TempDataDictionary(new DefaultHttpContext(), Mock.Of<ITempDataProvider>());
+        _controller.TempData = tempData;
 
         // Act
         var result = _controller.Create(car);
@@ -69,8 +75,42 @@ public class GarageControllerTest
         // Assert
         var redirectToActionResult = Assert.IsType<RedirectToActionResult>(result);
         Assert.Equal("Index", redirectToActionResult.ActionName);
-        _mockRepo.Verify();
+        _mockRepo.Verify(repo => repo.Save(It.IsAny<Car>()), Times.Once);
+        Assert.Equal("YN12312 has been created!", _controller.TempData["Message"]);
+    
+    }
+
+
+    [Fact]
+    public void Create_Post_InvalidModel_ReturnsView()
+    {
+        // Arrange
+        _controller.ModelState.AddModelError("Make", "Required");
+        var car = new Car { CarId = "YN12312", Make = "", Model = "Corolla", Year = 2000 };
         
+        // Act
+        var result = _controller.Create(car);
+        
+        // Assert
+        var viewResult = Assert.IsType<ViewResult>(result);
+        Assert.Null(viewResult.ViewData.Model);
+    }
+
+    [Fact]
+    public void Create_Post_ReturnViewResult_WhenExceptionIsThrown()
+    {
+        // Arrange
+        var car = new Car();
+        _mockRepo.Setup(repo => repo.Save(It.IsAny<Car>())).Throws(new Exception());
+        var tempData = new TempDataDictionary(new DefaultHttpContext(), Mock.Of<ITempDataProvider>());
+        _controller.TempData = tempData;
+        
+        // Act
+        var result = _controller.Create(car);
+
+        // Assert
+        Assert.IsType<RedirectToActionResult>(result);
+        Assert.Equal("Obs something went wrong!", _controller.TempData["Message"]);
     }
     
 }
