@@ -29,7 +29,7 @@ public class StudentController : Controller
         var student = _repository.GetStudentEditViewModel();
         return View(student);
     }
-
+    // POST: Student/Create
     [HttpPost]
     public IActionResult Create([Bind("Firstname,Lastname,DegreeId")] StudentEditViewModel student)
     {
